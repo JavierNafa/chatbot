@@ -1,0 +1,5 @@
+.vscode
+.env
+.google-cookie
+__pycache__
+*.sqlite3
